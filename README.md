@@ -1,2 +1,2 @@
-# rsschool-cv
-Repository for RS School 
+https://magpie729.github.io/rsschool-cv/cv
+
