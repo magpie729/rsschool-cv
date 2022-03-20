@@ -22,3 +22,19 @@ software development.
 * 2021 - Present 
 *University of Wroclaw (UWr), Wroclaw, Poland*
 Master's Degree Programm in Communication Design, to graduate in 2022
+
+* 2016 - 2019 
+*Maria Curie-Sklodowska University (UMCS), Lublin, Poland*
+BS in Digital Technologies in Cultural Animation 
+
+## Languages 
+
+* English - B1
+* Polish - B2
+* Russian - native speaker 
+
+## Code Examples
+
+  function multiply(a,b) {
+    return a * b
+  }
