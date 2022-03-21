@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway:wght@400;600;700&family=Roboto:wght@300;400&display=swap');
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper {
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.container {
+	width: 100%;
+	max-width: 1440px;
+	margin-top: 50px;
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+}
+
+/* about section */
+
+.about {
+	padding-bottom: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.profile {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	overflow: hidden;
+}
+
+.name {
+	
+}
