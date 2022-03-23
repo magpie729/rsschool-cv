@@ -1,2 +1,2 @@
-https://magpie729.github.io/rsschool-cv/cv
+https://magpie729.github.io/rsschool-cv/
 
