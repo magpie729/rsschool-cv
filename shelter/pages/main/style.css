@@ -179,3 +179,40 @@ font-family: 'Tinos', serif; */
 	letter-spacing: 6%;
 	color: var(--color-dark);
 }
+
+/* about */
+
+.about {
+	padding: 80px 0 100px 0;
+}
+
+.about__inner {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.about__content {
+	max-width: 370px;
+	margin-left: 120px;
+}
+
+.about__title {
+	margin-bottom: 35px;
+	font-family: Georgia;
+	font-size: 35px;
+	line-height: 1.2;
+	letter-spacing: 0.6;
+	color: var(--color-dark-grey); 
+}
+
+.about__text p:first-child {
+	margin-bottom: 25px;
+}
+
+.about__text {
+	font-family: Arial;
+	font-size: 15px;
+	line-height: 1.6;
+	color: var(--color-dark-xl);
+}
