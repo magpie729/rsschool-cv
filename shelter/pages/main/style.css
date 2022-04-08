@@ -211,6 +211,7 @@ font-family: 'Tinos', serif; */
 }
 
 .about__text {
+	width: 430px;
 	font-family: Arial;
 	font-size: 15px;
 	line-height: 1.6;
