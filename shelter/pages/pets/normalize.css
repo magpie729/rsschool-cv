@@ -80,6 +80,13 @@ html, body {
     background-color: transparent;
     text-decoration: none;
   }
+
+  button {
+    border: none;
+    background: none;
+    outline: none;
+    cursor: pointer;
+  }
   
   ul, li {
     list-style: none;
